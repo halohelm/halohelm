@@ -8,9 +8,9 @@
 <br><br><br>
 
 <div align="center">
-<a href="https://tulink1.com"><b><u>𝘼𝙩𝙖𝙗o͟o͟𝙠</u></b></a>
+<a href="[https://tulink1.com](https://holysinner.atabook.org/)"><b><u>𝘼𝙩𝙖𝙗o͟o͟𝙠</u></b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tulink2.com"><b><u>𝙎𝙩𝙧a͟𝙬𝙥𝙖𝙜e͟</u></b></a>
+<a href="[https://tulink2.com](https://halohelm.straw.page)"><b><u>𝙎𝙩𝙧a͟𝙬𝙥𝙖𝙜e͟</u></b></a>
 <br><br><br>
 </div>
 <p align="center">
