@@ -20,9 +20,9 @@
       $\color{#3feaf6}{\textsf{all pronouns | 20 ʸʳˢ | Bigender | 2006 }}$ <br>
       $\color{#6ccce4}{\textsf{C+H encounter ♡ It doesn’t need to be in my name }}$ <br>
       $\color{#6ccce4}{\textsf{English can be a little hard for me sometimes}}$ <br>
-      $\color{#3feaf6}{\textsf{I’m usually off-tab, so please w2i }}$ <br>
+      $\color{#3feaf6}{\textsf{I’m usually of͟f-tab  so please w2i }}$ <br>
       $\color{#6ccce4}{\textsf{I freely block/hide, if you're hidden then you did smth }}$ <br>
-      $\color{#6ccce4}{\textsf{Please, seriously, PLEASE, Please do NOT copy my skins}}$ <br>
+      $\color{#6ccce4}{\textsf{Please do not copy my skins﹕ ty}}$ <br>
 </th>
 </tr>
 </table>
@@ -57,5 +57,5 @@ $\color{#6ccce4}{\textsf{all good, just some of u can be a bit intense, srry}}$
 
 <img width="2047" height="60" alt="tumblr-3219f4cddd6e58dd463a61101e40ffd6-28e4e610-2048-fliter-gold-sunset-channel-blue-mode-normal" src="https://64.media.tumblr.com/e046ad72c6643fc2c3638e65d1e1cd6e/2feff335d979ffd1-26/s2048x3072/5f396d785abce865abd03b99512ff8ef90d79542.pnj"/>
 
-$\color{#6ccce4}\small{\textsf{this is only for ponytown (˶>⩊<˶)}}$ <br> 
+$\color{#6ccce4}\small{\textsf{ You should sign my ata! }}$ <br> 
 <img width="1280" height="429" alt="tumblr_e266a9a017bedb61f583f088ef1c0d7c_dc456a5b_1280" src="https://64.media.tumblr.com/56b366b0c77af630d40fc838c9ad7b22/2feff335d979ffd1-c5/s2048x3072/4cb238fb08759e7d9da77475a6ecfe1c4b60bca6.pnj"/>
