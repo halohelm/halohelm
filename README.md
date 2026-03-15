@@ -10,9 +10,11 @@
 
   </br>
 
-<img width="50" height="50" alt="64471025_wiN" src="https://64.media.tumblr.com/e200ddfd8085a278bcdb9a9f36b7ced7/b71a6f05aae197fe-b8/s100x200/975b2f4bac3ffab9c5e0d8f90083648874a8e911.gifv"/>
-<img width="50" height="50" alt="64471029_zre" src="https://64.media.tumblr.com/1cc9121b48ffb62a77d4af63ed05ef53/b71a6f05aae197fe-c4/s100x200/4b29852cb6401c675d2454c29b67254d2841fac1.gifv" />
-<img width="50" height="50" alt="66080899_08iFkBb775VC0f0" src="https://64.media.tumblr.com/65b147db06cf770aa9cd31100cff1eef/b71a6f05aae197fe-64/s100x200/5ab2505def41df99b42fb09064d1a48c23a843f1.gifv" />
+<img width="70" height="60" alt="64471025_wiN" src="https://64.media.tumblr.com/5dff3f058f0fd3db65ef2679a33371b2/0f3ad1aff0d9e5ba-6d/s100x200/a0966439e39802e726fa49676da4e84820ec11b8.gifv"/>
+<img width="70" height="60" alt="64471029_zre" src="https://64.media.tumblr.com/cc1951f016e4515160a735e64786dd18/0f3ad1aff0d9e5ba-92/s100x200/54530c610a8cfa54f1c008dfe381a7ca8b76ed40.gifv" />
+<img width="70" height="60" alt="66080899_08iFkBb775VC0f0" src="https://64.media.tumblr.com/7d2ed8ce30d9cb10f05973c2a70ce218/0f3ad1aff0d9e5ba-8f/s100x200/095b288c0e44ac687235baec7d384b80e7a693da.gifv" />
+<img width="70" height="60" alt="64471025_wiN" src="https://64.media.tumblr.com/1eac25d60e54d1bcf2f86dccdb22433b/fe9b5cf4d120c8c1-4c/s100x200/aadf032dbb867d5288f7fc35221e6ac24d203852.pnj"/>
+<img width="70" height="60" alt="64471025_wiN" src="https://64.media.tumblr.com/652b1f20364a778209f42b2c05eb48af/fe9b5cf4d120c8c1-27/s100x200/d76909e893f395f75247ed6fc15cf3e05b365a66.pnj"/>
 
 <table>
   <tr>
@@ -27,12 +29,11 @@
 </tr>
 </table>
 
-<a href="https://holysinner.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=30&duration=1&pause=5000&color=6ccce4&center=true&vCenter=true&width=200&height=25&lines=Atabook" alt="Typing SVG" /></a>
+<a href="https://holysinner.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=20&duration=1&pause=5000&color=6ccce4&center=true&vCenter=true&width=200&height=25&lines=Atabook" alt="Typing SVG" /></a>
 
 <img width="2048" height="314" alt="tumblr_d4c171d40a8467f350755dca603f6c15_6b446658_2048" src="https://64.media.tumblr.com/62f2bdf0fb0714fdbfa1a85f25560985/ea3bd8828fa711e1-69/s2048x3072/f44aed3bea647133fee68f510701ce5c64429862.pnj"/>  
 
 <img align="right" width="250" height="300" alt="Image-36" src="https://64.media.tumblr.com/d34fe490f3734f497e5ca5849063da18/93eea70abcb45738-89/s1280x1920/5b9a15f363b2b7a496e3bac17ce220730f5fef0a.pnj"/>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=20&duration=1&pause=5000&color=6ccce4&center=true&vCenter=true&width=200&height=25&lines=Do+Not+Interact" alt="Typing SVG" /></a>
 <table>
   <tr>
@@ -43,9 +44,11 @@ $\color{#3feaf6}{\textsf{Homophobic, Transphobic, Xenophobic    }}$<br>
 $\color{#6ccce4}{\textsf{Invalidates A Person's Pronouns / Gender / Identity}}$ <br>
 $\color{#3feaf6}{\textsf{Pedophile, Sexualizes Minors, Jokes About R×pe, etc.}}$ <br>
 </th>
+<br>
 </tr>
+
 </table>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=20&duration=1&pause=5000&color=6ccce4&center=true&vCenter=true&width=250&height=25&lines=Interact+With+Caution" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=20&duration=1&pause=5000&color=6ccce4&center=true&vCenter=true&width=250&height=25&lines=Interact+With+Caution" alt="Typing SVG" /></a> 
 <table>
   <tr>
     <th>
@@ -54,7 +57,6 @@ $\color{#6ccce4}{\textsf{all good, just some of u can be a bit intense, srry}}$
     </th>
   </tr>
 </table>
-
 <img width="2047" height="60" alt="tumblr-3219f4cddd6e58dd463a61101e40ffd6-28e4e610-2048-fliter-gold-sunset-channel-blue-mode-normal" src="https://64.media.tumblr.com/e046ad72c6643fc2c3638e65d1e1cd6e/2feff335d979ffd1-26/s2048x3072/5f396d785abce865abd03b99512ff8ef90d79542.pnj"/>
 
 $\color{#6ccce4}\small{\textsf{ You should sign my ata! }}$ <br> 
