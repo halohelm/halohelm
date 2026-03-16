@@ -27,7 +27,8 @@
       $\color{#c1c1c1}{\textsf{English can be a little hard for me sometimes}}$ <br>
       $\color{#55b0e3}{\textsf{I’m usually of͟f-tab  so please w2i }}$ <br>
       $\color{#a6e6fe}{\textsf{I freely block/hide, if you're hidden then you did smth }}$ <br>
-      $\color{#c1c1c1}{\textsf{Please do not copy my skins﹕ ty}}$ <br>
+      $\color{#c1c1c1}{\textsf{Please DO NOT copy my skins or take ‘inspiration’ from them.}}$ <br>
+      $\color{#c1c1c1}{\textsf{If you see any of my skins on Pinterest, I didn’t post them}}$ <br>
 </th>
 </tr>
 </table>
