@@ -8,7 +8,7 @@
 
 <img align="left" width="300" height="300" alt="tumblr_c2a585704b871d75f3333042ad2a22b0_7afa730b_1280" src="https://64.media.tumblr.com/4f9aa23fd94b403b61cae3454e32bce2/93eea70abcb45738-d3/s1280x1920/35b054b16fee328c0a57450462a14ca0fc9b0879.pnj"/>
 
-  </br>
+ 
 
 <img width="70" height="60" alt="64471025_wiN" src="https://64.media.tumblr.com/5dff3f058f0fd3db65ef2679a33371b2/0f3ad1aff0d9e5ba-6d/s100x200/a0966439e39802e726fa49676da4e84820ec11b8.gifv"/>
 <img width="70" height="60" alt="64471029_zre" src="https://64.media.tumblr.com/cc1951f016e4515160a735e64786dd18/0f3ad1aff0d9e5ba-92/s100x200/54530c610a8cfa54f1c008dfe381a7ca8b76ed40.gifv" />
@@ -16,15 +16,17 @@
 <img width="70" height="60" alt="64471025_wiN" src="https://64.media.tumblr.com/1eac25d60e54d1bcf2f86dccdb22433b/fe9b5cf4d120c8c1-4c/s100x200/aadf032dbb867d5288f7fc35221e6ac24d203852.pnj"/>
 <img width="70" height="60" alt="64471025_wiN" src="https://64.media.tumblr.com/652b1f20364a778209f42b2c05eb48af/fe9b5cf4d120c8c1-27/s100x200/d76909e893f395f75247ed6fc15cf3e05b365a66.pnj"/>
 
+  </br>
+
 <table>
   <tr>
     <th>
-      $\color{#3feaf6}{\textsf{all pronouns | 20 ʸʳˢ | Bigender | 2006 }}$ <br>
-      $\color{#6ccce4}{\textsf{C+H encounter ♡ It doesn’t need to be in my name }}$ <br>
-      $\color{#6ccce4}{\textsf{English can be a little hard for me sometimes}}$ <br>
-      $\color{#3feaf6}{\textsf{I’m usually of͟f-tab  so please w2i }}$ <br>
-      $\color{#6ccce4}{\textsf{I freely block/hide, if you're hidden then you did smth }}$ <br>
-      $\color{#6ccce4}{\textsf{Please do not copy my skins﹕ ty}}$ <br>
+      $\color{#55b0e3}{\textsf{all pronouns | 20 ʸʳˢ | Bigender | 2006 }}$ <br>
+      $\color{#a6e6fe}{\textsf{C+H encounter ♡ It doesn’t need to be in my name }}$ <br>
+      $\color{#c1c1c1}{\textsf{English can be a little hard for me sometimes}}$ <br>
+      $\color{#55b0e3}{\textsf{I’m usually of͟f-tab  so please w2i }}$ <br>
+      $\color{#a6e6fe}{\textsf{I freely block/hide, if you're hidden then you did smth }}$ <br>
+      $\color{#c1c1c1}{\textsf{Please do not copy my skins﹕ ty}}$ <br>
 </th>
 </tr>
 </table>
@@ -38,11 +40,9 @@
 <table>
   <tr>
     <th>
-$\color{#3feaf6}{\textsf{proshipper/darkshipper ⋮ you think fiction doesn't affect reality}}$ <br>
-$\color{#6ccce4}{\textsf{Anyone who unironically considers themselves “problematic”}}$ <br>
-$\color{#3feaf6}{\textsf{Homophobic, Transphobic, Xenophobic    }}$<br>
-$\color{#6ccce4}{\textsf{Invalidates A Person's Pronouns / Gender / Identity}}$ <br>
-$\color{#3feaf6}{\textsf{Pedophile, Sexualizes Minors, Jokes About R×pe, etc.}}$ <br>
+$\color{#55b0e3}{\textsf{Anyone who unironically considers themselves “problematic”}}$ <br>
+$\color{#a6e6fe}{\textsf{Basic DNI | Homophobic | Transphobic | Xenophobic    }}$<br>
+$\color{#c1c1c1}{\textsf{Pedophile | Sexualizes Minors | Jokes About R×pe | etc.}}$ <br>
 </th>
 <br>
 </tr>
@@ -53,11 +53,29 @@ $\color{#3feaf6}{\textsf{Pedophile, Sexualizes Minors, Jokes About R×pe, etc.}}
   <tr>
     <th>
 $\color{#6ccce4}{\textsf{sensitive ppl or anyone dealing w/mental health stuff}}$ <br>
-$\color{#6ccce4}{\textsf{all good, just some of u can be a bit intense, srry}}$
+$\color{#c1c1c1}{\textsf{all good, just some of u can be a bit intense, srry}}$
     </th>
   </tr>
 </table>
 <img width="2047" height="60" alt="tumblr-3219f4cddd6e58dd463a61101e40ffd6-28e4e610-2048-fliter-gold-sunset-channel-blue-mode-normal" src="https://64.media.tumblr.com/e046ad72c6643fc2c3638e65d1e1cd6e/2feff335d979ffd1-26/s2048x3072/5f396d785abce865abd03b99512ff8ef90d79542.pnj"/>
 
-$\color{#6ccce4}\small{\textsf{ You should sign my ata! }}$ <br> 
+<img width="80" height="60" alt="4_sin_titulo_20260316110524" src="https://github.com/user-attachments/assets/a61129c7-a44c-4dcd-a570-9625435f0340" />
+<img width="80" height="60" alt="4_sin_titulo_20260316102959" src="https://github.com/user-attachments/assets/3e648852-c87c-4317-9e1f-2c829cc7043e" />
+<img width="80" height="60" alt="4_sin_titulo_20260316110032" src="https://github.com/user-attachments/assets/590918bb-7b58-41b5-9ca0-baaf13894103" />
+<img width="80" height="60" alt="4_sin_titulo_20260316103018" src="https://github.com/user-attachments/assets/00d92790-137d-465b-8361-a5c172d9275e" />
+<img width="80" height="60" alt="4_sin_titulo_20260316103111" src="https://github.com/user-attachments/assets/74986334-46b1-4d40-86e2-9c4705898567" />
+<img width="80" height="60" alt="4_sin_titulo_20260316102313" src="https://github.com/user-attachments/assets/93430c94-57b7-40ee-9c7c-26a47c0f819a" />
+<img width="80" height="60" alt="4_sin_titulo_20260316104607" src="https://github.com/user-attachments/assets/3718b0fe-4f0c-46fc-bf2e-3bc715714d05" />
+<img width="80" height="60" alt="4_sin_titulo_20260316103854" src="https://github.com/user-attachments/assets/ed812aa4-d0dd-4a8d-b89e-3e6df9514f9e" />
+<img width="80" height="60" alt="4_sin_titulo_20260316102340" src="https://github.com/user-attachments/assets/0e6d17d3-774e-4581-ab64-ee118ec8c97e" />
+<img width="80" height="60" alt="4_sin_titulo_20260316110125" src="https://github.com/user-attachments/assets/0d7fdb58-9fc8-4668-80a3-498709c17063" />
+<img width="80" height="60" alt="4_sin_titulo_20260316105836" src="https://github.com/user-attachments/assets/ab57c6c6-4c95-48fd-955d-127ca8e61f6b" />
+<img width="80" height="60" alt="4_sin_titulo_20260316110703" src="https://github.com/user-attachments/assets/8e9ff45a-19a0-4b76-85be-007bffd34c17" />
+
+
+<br>
+<span style="color:#d0d0d0;">Stamps I made because nobody has what I want, feel free to use them.</span>
+
 <img width="1280" height="429" alt="tumblr_e266a9a017bedb61f583f088ef1c0d7c_dc456a5b_1280" src="https://64.media.tumblr.com/56b366b0c77af630d40fc838c9ad7b22/2feff335d979ffd1-c5/s2048x3072/4cb238fb08759e7d9da77475a6ecfe1c4b60bca6.pnj"/>
+
+
