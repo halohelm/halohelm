@@ -33,6 +33,11 @@
 </table>
 
 <a href="https://holysinner.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=20&duration=1&pause=5000&color=6ccce4&center=true&vCenter=true&width=200&height=25&lines=Atabook" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rxrxzqtlu6ef4v2qlmdsfvatwe&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 <img width="2048" height="314" alt="tumblr_d4c171d40a8467f350755dca603f6c15_6b446658_2048" src="https://64.media.tumblr.com/62f2bdf0fb0714fdbfa1a85f25560985/ea3bd8828fa711e1-69/s2048x3072/f44aed3bea647133fee68f510701ce5c64429862.pnj"/>  
 
@@ -79,5 +84,6 @@ $\color{#c1c1c1}{\textsf{People who only talk about ships it’s a bit annoying.
 <span style="color:#d0d0d0;">Stamps I made, free to use. I’ll add more here in the future.</span>
 
 <img width="1280" height="429" alt="tumblr_e266a9a017bedb61f583f088ef1c0d7c_dc456a5b_1280" src="https://64.media.tumblr.com/56b366b0c77af630d40fc838c9ad7b22/2feff335d979ffd1-c5/s2048x3072/4cb238fb08759e7d9da77475a6ecfe1c4b60bca6.pnj"/>
+
 
 
