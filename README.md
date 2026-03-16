@@ -2,7 +2,8 @@
 <img width="1280" height="429" alt="tumblr_ed8fdf2fc5b7c33848195f5630fef746_ccd4d6a5_1280" src="https://64.media.tumblr.com/bccec708160b09742fe53199f1a595ff/2feff335d979ffd1-10/s2048x3072/87765a069725a01795540a32be145f87a4bbfb3d.pnj"/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/halohelm&left_color=green&right_color=blue&left_text=VISITORS"/>
-<img src="https://64.media.tumblr.com/c1d155d1234a53f071691a541923cf4e/c8406d8a049fc189-52/s75x75_c1/3922f2a0f75bb43e9c2cb8e1f40ef5bb691dd1e3.gifv"> <img alt="SKYWALKERS" src="https://img.shields.io/github/followers/halohelm?style=flat&label=SKYWALKERS&labelColor=green&color=blue">
+<img width="20" height="20" src="https://64.media.tumblr.com/4ca4608f0dae14864311b10b22f2784f/6622434a82be4681-94/s75x75_c1/51a81841a27d378a2922bb2f18246b8476b3c41e.gifv"/>
+ <img alt="SKYWALKERS" src="https://img.shields.io/github/followers/halohelm?style=flat&label=SKYWALKERS&labelColor=green&color=blue">
 
 <img width="2047" height="60" alt="https://64.media.tumblr.com/72d4630dd532910098bad130fe7c7763/6622434a82be4681-e4/s75x75_c1/a14206463ebe8202de90915328c9cd3077c625d9.gifv" src="https://64.media.tumblr.com/e046ad72c6643fc2c3638e65d1e1cd6e/2feff335d979ffd1-26/s2048x3072/5f396d785abce865abd03b99512ff8ef90d79542.pnj"/>
 
@@ -53,7 +54,8 @@ $\color{#c1c1c1}{\textsf{Pedophile | Sexualizes Minors | Jokes About R×pe | etc
   <tr>
     <th>
 $\color{#6ccce4}{\textsf{sensitive ppl or anyone dealing w/mental health stuff}}$ <br>
-$\color{#c1c1c1}{\textsf{all good, just some of u can be a bit intense, srry}}$
+$\color{#c1c1c1}{\textsf{all good, just some of u can be a bit intense, srry}}$ <br>
+$\color{#c1c1c1}{\textsf{People who only talk about ships it’s a bit annoying.}}$
     </th>
   </tr>
 </table>
@@ -74,7 +76,7 @@ $\color{#c1c1c1}{\textsf{all good, just some of u can be a bit intense, srry}}$
 
 
 <br>
-<span style="color:#d0d0d0;">Stamps I made because nobody has what I want, feel free to use them.</span>
+<span style="color:#d0d0d0;">Stamps I made, free to use. I’ll add more here in the future.</span>
 
 <img width="1280" height="429" alt="tumblr_e266a9a017bedb61f583f088ef1c0d7c_dc456a5b_1280" src="https://64.media.tumblr.com/56b366b0c77af630d40fc838c9ad7b22/2feff335d979ffd1-c5/s2048x3072/4cb238fb08759e7d9da77475a6ecfe1c4b60bca6.pnj"/>
 
