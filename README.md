@@ -74,6 +74,13 @@ $\color{#c1c1c1}{\textsf{People who only talk about ships it’s a bit annoying.
 <img width="80" height="60" alt="4_sin_titulo_20260316110125" src="https://github.com/user-attachments/assets/0d7fdb58-9fc8-4668-80a3-498709c17063" />
 <img width="80" height="60" alt="4_sin_titulo_20260316105836" src="https://github.com/user-attachments/assets/ab57c6c6-4c95-48fd-955d-127ca8e61f6b" />
 <img width="80" height="60" alt="4_sin_titulo_20260316110703" src="https://github.com/user-attachments/assets/8e9ff45a-19a0-4b76-85be-007bffd34c17" />
+<img width="80" height="60" alt="4_sin_titulo_20260317040405" src="https://github.com/user-attachments/assets/e6c48e5e-edde-441e-aea5-e97aa9a7ea02" />
+<img width="80" height="60" alt="4_sin_titulo_20260317040213" src="https://github.com/user-attachments/assets/2352b961-37ad-44f5-93be-d797245a89d9" />
+<img width="80" height="60" alt="4_sin_titulo_20260317040228" src="https://github.com/user-attachments/assets/0c1d6e72-4513-458d-a4f9-194865d6c866" />
+<img width="80" height="60" alt="4_sin_titulo_20260317040242" src="https://github.com/user-attachments/assets/48b55ec6-a334-422e-aad1-f7281c5f82e7" />
+<img width="80" height="60" alt="4_sin_titulo_20260317040303" src="https://github.com/user-attachments/assets/bc345722-a283-4332-87e1-6f473986bca7" />
+
+
 
 
 <br>
@@ -84,6 +91,6 @@ $\color{#c1c1c1}{\textsf{People who only talk about ships it’s a bit annoying.
 <br>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rxrxzqtlu6ef4v2qlmdsfvatwe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rxrxzqtlu6ef4v2qlmdsfvatwe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
