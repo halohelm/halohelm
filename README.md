@@ -45,6 +45,7 @@
 $\color{#55b0e3}{\textsf{Anyone who unironically considers themselves “problematic”}}$ <br>
 $\color{#a6e6fe}{\textsf{Basic DNI | Homophobic | Transphobic | Xenophobic    }}$<br>
 $\color{#c1c1c1}{\textsf{Pedophile | Sexualizes Minors | Jokes About R×pe | etc.}}$ <br>
+$\color{#a6e6fe}{\textsf{people who can't take a joke or takes them way too seriously}}$ <br>
 </th>
 <br>
 </tr>
@@ -55,13 +56,19 @@ $\color{#c1c1c1}{\textsf{Pedophile | Sexualizes Minors | Jokes About R×pe | etc
   <tr>
     <th>
 $\color{#6ccce4}{\textsf{sensitive ppl or anyone dealing w/mental health stuff}}$ <br>
-$\color{#c1c1c1}{\textsf{all good, just some of u can be a bit intense, srry}}$ <br>
-$\color{#c1c1c1}{\textsf{People who only talk about ships it’s a bit annoying.}}$
+$\color{#a6e6fe}{\textsf{all good, just some of u can be a bit intense, srry}}$ <br>
+$\color{#55b0e3}{\textsf{If you’re easily offended, my humor isn’t for you.}}$
     </th>
   </tr>
 </table>
+
+
 <img width="2047" height="60" alt="tumblr-3219f4cddd6e58dd463a61101e40ffd6-28e4e610-2048-fliter-gold-sunset-channel-blue-mode-normal" src="https://64.media.tumblr.com/e046ad72c6643fc2c3638e65d1e1cd6e/2feff335d979ffd1-26/s2048x3072/5f396d785abce865abd03b99512ff8ef90d79542.pnj"/>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=13&duration=5000&pause=3000&color=898988&center=true&width=800&lines=Stamps+I+made%2C+free+to+use.+I%E2%80%99ll+add+more+here+in+the+future."/>
+</p>
+          
 <img width="80" height="60" alt="4_sin_titulo_20260316110524" src="https://github.com/user-attachments/assets/a61129c7-a44c-4dcd-a570-9625435f0340" />
 <img width="80" height="60" alt="4_sin_titulo_20260316102959" src="https://github.com/user-attachments/assets/3e648852-c87c-4317-9e1f-2c829cc7043e" />
 <img width="80" height="60" alt="4_sin_titulo_20260316110032" src="https://github.com/user-attachments/assets/590918bb-7b58-41b5-9ca0-baaf13894103" />
@@ -84,7 +91,7 @@ $\color{#c1c1c1}{\textsf{People who only talk about ships it’s a bit annoying.
 
 
 <br>
-<span style="color:#d0d0d0;">Stamps I made, free to use. I’ll add more here in the future.</span>
+
 
 <img width="1280" height="429" alt="tumblr_e266a9a017bedb61f583f088ef1c0d7c_dc456a5b_1280" src="https://64.media.tumblr.com/56b366b0c77af630d40fc838c9ad7b22/2feff335d979ffd1-c5/s2048x3072/4cb238fb08759e7d9da77475a6ecfe1c4b60bca6.pnj"/>
 
