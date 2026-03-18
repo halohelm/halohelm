@@ -87,8 +87,12 @@ $\color{#55b0e3}{\textsf{If you’re easily offended, my humor isn’t for you.}
 <img width="80" height="60" alt="4_sin_titulo_20260317040228" src="https://github.com/user-attachments/assets/0c1d6e72-4513-458d-a4f9-194865d6c866" />
 <img width="80" height="60" alt="4_sin_titulo_20260317040242" src="https://github.com/user-attachments/assets/48b55ec6-a334-422e-aad1-f7281c5f82e7" />
 <img width="80" height="60" alt="4_sin_titulo_20260317040303" src="https://github.com/user-attachments/assets/bc345722-a283-4332-87e1-6f473986bca7" />
-<img width="80" height="60" alt="4_sin_titulo_20260317060006" src="https://github.com/user-attachments/assets/9ee6c5ac-0e7c-4b91-b7d1-56740a379e9c" />
 <img width="80" height="60" alt="4_sin_titulo_20260316110537" src="https://github.com/user-attachments/assets/439dd5d0-0065-44e6-b874-e5f3eaa08517" />
+<img width="80" height="60" alt="4_sin_titulo_20260318155812" src="https://github.com/user-attachments/assets/9dc83fc5-f62c-4d24-add8-fffd813b96c8" />
+<img width="80" height="60" alt="4_sin_titulo_20260318155828" src="https://github.com/user-attachments/assets/d70e1e7e-a57f-4e02-9dde-14953a3cfc36" />
+<img width="80" height="60" alt="4_sin_titulo_20260318155800" src="https://github.com/user-attachments/assets/b7616796-cbd4-4f47-94ed-506c2f6b7c51" />
+<img width="80" height="60" alt="4_sin_titulo_20260318155851" src="https://github.com/user-attachments/assets/81b91507-2be8-4372-a6bb-d2b528c98711" />
+
 
 
 
