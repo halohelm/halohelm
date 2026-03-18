@@ -34,7 +34,7 @@
 </table>
 
 <a href="https://holysinner.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=20&duration=1&pause=5000&color=6ccce4&center=true&vCenter=true&width=200&height=25&lines=Atabook" alt="Typing SVG" /></a>
-<a href="https://holysinner.atabook.org/(https://halohelm.straw.page)"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=20&duration=1&pause=5000&color=6ccce4&center=true&vCenter=true&width=200&height=25&lines=Strawpage" alt="Typing SVG" /></a>
+<a href="https://halohelm.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=20&duration=1&pause=5000&color=6ccce4&center=true&vCenter=true&width=200&height=25&lines=Strawpage" alt="Typing SVG" /></a>
 
 
 <img width="2048" height="314" alt="tumblr_d4c171d40a8467f350755dca603f6c15_6b446658_2048" src="https://64.media.tumblr.com/62f2bdf0fb0714fdbfa1a85f25560985/ea3bd8828fa711e1-69/s2048x3072/f44aed3bea647133fee68f510701ce5c64429862.pnj"/>  
