@@ -78,6 +78,8 @@ $\color{#55b0e3}{\textsf{If you’re easily offended, my humor isn’t for you.}
 <img width="80" height="60" alt="4_sin_titulo_20260316103111" src="https://github.com/user-attachments/assets/74986334-46b1-4d40-86e2-9c4705898567" />
 <img width="80" height="60" alt="4_sin_titulo_20260317060654" src="https://github.com/user-attachments/assets/04116e36-c202-4cb2-89bd-76f35f170482" />
 <img width="80" height="60" alt="4_sin_titulo_20260316102313" src="https://github.com/user-attachments/assets/93430c94-57b7-40ee-9c7c-26a47c0f819a" />
+<img width="80" height="60" alt="4_sin_titulo_20260318223751" src="https://github.com/user-attachments/assets/f19fd6ee-f5f8-41cd-a555-8fe79b64e64a" />
+<img width="80" height="60" alt="4_sin_titulo_20260318223851" src="https://github.com/user-attachments/assets/32535a8f-228f-42e4-baa6-25f84403223b" />
 <img width="80" height="60" alt="4_sin_titulo_20260316104607" src="https://github.com/user-attachments/assets/3718b0fe-4f0c-46fc-bf2e-3bc715714d05" />
 <img width="80" height="60" alt="4_sin_titulo_20260316103854" src="https://github.com/user-attachments/assets/ed812aa4-d0dd-4a8d-b89e-3e6df9514f9e" />
 <img width="80" height="60" alt="4_sin_titulo_20260316102340" src="https://github.com/user-attachments/assets/0e6d17d3-774e-4581-ab64-ee118ec8c97e" />
@@ -87,6 +89,7 @@ $\color{#55b0e3}{\textsf{If you’re easily offended, my humor isn’t for you.}
 <img width="80" height="60" alt="4_sin_titulo_20260317040405" src="https://github.com/user-attachments/assets/e6c48e5e-edde-441e-aea5-e97aa9a7ea02" />
 <img width="80" height="60" alt="4_sin_titulo_20260317040213" src="https://github.com/user-attachments/assets/2352b961-37ad-44f5-93be-d797245a89d9" />
 <img width="80" height="60" alt="4_sin_titulo_20260317040228" src="https://github.com/user-attachments/assets/0c1d6e72-4513-458d-a4f9-194865d6c866" />
+<img width="80" height="60" alt="4_sin_titulo_20260318223809" src="https://github.com/user-attachments/assets/fc2adb69-10b4-4254-9f70-10f1c8070665" />
 <img width="80" height="60" alt="4_sin_titulo_20260317040242" src="https://github.com/user-attachments/assets/48b55ec6-a334-422e-aad1-f7281c5f82e7" />
 <img width="80" height="60" alt="4_sin_titulo_20260317040303" src="https://github.com/user-attachments/assets/bc345722-a283-4332-87e1-6f473986bca7" />
 <img width="80" height="60" alt="4_sin_titulo_20260316110537" src="https://github.com/user-attachments/assets/439dd5d0-0065-44e6-b874-e5f3eaa08517" />
