@@ -14,7 +14,4 @@
 </p>
 
 
- 
-#### </sub>[**STRAWPAGE**](https://halolibrary.straw.page/)⠀⠀⠀⠀⠀[**新BOOK**](https://holysinner.atabook.org/)⠀⠀⠀⠀⠀[**GUNS.LOL**](https://guns.lol/halohelm)</sub>
-<br>
 <img width="2047" height="60" alt="https://64.media.tumblr.com/72d4630dd532910098bad130fe7c7763/6622434a82be4681-e4/s75x75_c1/a14206463ebe8202de90915328c9cd3077c625d9.gifv" src="https://64.media.tumblr.com/8f3990a1fcfab15cda1a9003d0a3ad21/d960888ec2e14ac1-4f/s1280x1920/a80b09526ec9779af943e217096d4ecb5c13f138.pnj"/>
